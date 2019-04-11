@@ -1,0 +1,92 @@
+/*
+* Name
+* Due Date
+* Project Name and Description
+*/
+
+/* The Universal Selector */
+
+*{
+    
+}
+
+/* Body attributes */
+
+body {
+    background-color: cadetblue
+}
+
+h1 {
+   color: white;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 450%;
+}
+
+h2 {
+    color: white;
+    font-family: cursive;
+    font-style: normal;
+    font-size: 200%;
+}
+
+h3 {
+    color: white;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 200%;
+}
+
+p {
+    color:white;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 130%
+}
+
+/* figcaption attributes */
+
+figcaption {
+    color:white;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 100%
+}
+
+/* image attributes */
+
+img { width: 1330px; height: 600px}
+
+#gardens { width: 530px; height: 300px}
+
+#pigeonisland { width: 530px; height: 300px}
+
+#marigotbay { width: 530px; height: 300px}
+
+/* table attributes */
+
+table, td, th { border: 2px solid white}
+
+thead { background-color: lightgray}
+
+tbody { background-color: whitesmoke}
+
+tfoot { background-color: lightgray}
+
+table { font-family: monospace}
+
+/* list attributes */
+
+ul {
+    color: white;
+    font-family: monospace;
+}
+
+/* quote attributes */
+
+blockquote {
+    color:white;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 110%
+}
